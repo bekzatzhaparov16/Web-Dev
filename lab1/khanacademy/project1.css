@@ -1,0 +1,18 @@
+            body{
+                background-color:rgb(3, 1, 10);
+            }
+            #heading-info {
+                color:rgb(203, 224, 16);
+            }
+            .reasons{
+                color:rgb(240, 240, 240);
+            }
+            .numbers{
+                color:rgb(247, 247, 247);
+            }
+            .definitions{
+                color:rgb(245, 230, 19);
+            }
+            #author{
+                color:rgb(21,239,58)
+            }
